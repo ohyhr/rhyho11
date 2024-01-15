@@ -7,6 +7,7 @@ In progress
 - ISO Setup
 - References
 - Install scripts
+- Benchmarks
 
 Fork of https://github.com/amitxv/PC-Tuning
 
