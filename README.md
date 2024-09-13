@@ -2,16 +2,13 @@
 PC Tweaking guide
 
 In progress
-- Defender Toggle
+- Change Script to apply registry changes to use json
 - Documentation
-- ISO Setup
+- ISO Setup guide
 - References
-- Install scripts
-- Benchmarks
+- Post Install tweaks
 
-Fork of https://github.com/amitxv/PC-Tuning
-
-Tweaked for compatibility, security and performance
+Tweaked for compatibility and performance
 
 
 
